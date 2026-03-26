@@ -28,7 +28,7 @@ Used for connections between different device types such as:
 These connections work because the internal wiring of the devices is already complementary.
 
 ### 📸 Straight-Through Connection Example
-![Straight Through Cable](straight-through.png)
+![Straight Through Cable](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/blob/main/Screenshot%202026-03-26%20013623.png)
 
 ---
 
