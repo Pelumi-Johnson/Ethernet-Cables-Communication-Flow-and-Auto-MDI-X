@@ -67,7 +67,7 @@ Auto MDI-X allows a device to:
 - compensate for mismatched cable connections
 
 ### 📸 Auto MDI-X Behavior / Working Connection
-![Auto MDIX](auto-mdix.png)
+![Auto MDIX](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/blob/main/Screenshot%202026-03-25%20125201.png)
 
 ---
 
