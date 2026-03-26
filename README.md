@@ -43,7 +43,7 @@ Used for connections between similar device types such as:
 This allows one device’s transmit pins to align with the other device’s receive pins.
 
 ### 📸 Crossover Connection Example
-![Crossover Cable](crossover.png)
+![Crossover Cable](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/blob/main/Screenshot%202026-03-26%20014121.png)
 
 ---
 
