@@ -1,4 +1,4 @@
-# 🖧 Day 2 | Ethernet Cables, Communication Flow, and Auto MDI-X
+# 🖧 Ethernet Cables, Communication Flow, and Auto MDI-X
 
 ## 🎯 Objective
 Understand why network connections work by exploring the difference between straight-through and crossover cables, and how devices handle transmit and receive signaling.
